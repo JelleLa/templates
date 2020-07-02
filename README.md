@@ -8,7 +8,7 @@ The Templates are sorted in folders, like LaTeX and MATLAB, self-evidenty contai
 
 ### MATLAB (Not Available Yet)
 
-### Office (Last Update [02-07-2020])
+### Office (Current Version: 1.0 [02-07-2020])
 
-### Python (Last Update [02-07-2020])
+### Python (Current Version: 1.0 [02-07-2020])
 
