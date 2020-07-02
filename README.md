@@ -1,2 +1,2 @@
 # Templates
-Templates for common documents like LaTeX, Python.
+Templates for common documents like $$\LaTeX{}$$ , Python.
