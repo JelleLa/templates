@@ -1,5 +1,5 @@
 # Templates
-Templates for common documents like LaTeX, Python. When using Linux, it is advised to place these files in ~/Templates so they are always at hand. The easiest way to to this is by cloning this repo: `git clone https://github.com/JelleLa/templates`.
+Templates for common documents like LaTeX, Python. When using Linux, it is advised to place these files in `~/Templates` so they are always at hand. The easiest way to to this is by cloning this repo: `git clone https://github.com/JelleLa/templates`.
 
 ## Hierarchy
 The Templates are sorted in folders, like LaTeX and MATLAB, self-evidenty containing LaTeX and MATLAB templates.
