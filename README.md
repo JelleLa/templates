@@ -6,7 +6,7 @@ The Templates are sorted in folders, like LaTeX and MATLAB, self-evidenty contai
 
 ### HTML ( Current Version: 1.0 [09-07-2020])
 
-### LaTeX (Current Version: 1.2 [02-07-2020])
+### LaTeX (Current Version: 1.3 [15-07-2020])
 
 ### MATLAB (Not Available Yet)
 
