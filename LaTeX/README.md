@@ -14,6 +14,7 @@
 
 # ROADMAP 
 - [x] Fix centering issue.
-- [ ] Add TU/e logo.
-- [ ] Make Overleaf compatible zips.
-- [ ] Make Usepackage overview list that can easilly be added to any .TeX file.
+- [x] Add TU/e logo.
+- [x] Make Overleaf compatible zips.
+- [ ] Expand Usepackage overview list that can easilly be added to any .TeX file.
+- [ ] Add Linux Install Guide to this README.md.
