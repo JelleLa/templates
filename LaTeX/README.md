@@ -1,4 +1,8 @@
 # RELEASE NOTES
+#### [v 1.4] [ZIP-Only]
+* Initial Release of "Zipped" versions, made for Overleaf for TU/e students.
+* Added Eindhoven University Of Technology Logo to the Report Template in the zipped version.
+
 #### [v 1.3]
 * \latex repository deleted.
 * Center issue resolved. 
