@@ -10,7 +10,7 @@ The Templates are sorted in folders, like LaTeX and MATLAB, self-evidenty contai
 
 * **LaTeX** (Current Version: 1.3 [15-07-2020], 1.4 ZIPPED [23-07-2020])
 
-* **MATLAB** (Not Available Yet)
+* **MATLAB** (Current Version: 1.0 [19-08-2020])
 
 * **Office** (Current Version: 1.0 [02-07-2020])
 
