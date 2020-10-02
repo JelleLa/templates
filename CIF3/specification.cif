@@ -1,0 +1,15 @@
+//===========================
+//== ~ HEADER ~ =============
+//===========================
+
+// COMMENT
+
+event a;
+
+automaton def EX()
+location:
+initial;
+  edge a;
+  
+end
+
