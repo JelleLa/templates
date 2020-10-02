@@ -6,6 +6,8 @@ The Templates are sorted in folders, like LaTeX and MATLAB, self-evidenty contai
 
 * **Bash** (Not Available Yet)
 
+* **CIF3** (Current Version: 1.0 [02-10-2020])
+
 * **HTML** (Current Version: 1.0 [09-07-2020])
 
 * **LaTeX** (Current Version: 1.3 [15-07-2020], 1.4 ZIPPED [23-07-2020])
